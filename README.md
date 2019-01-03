@@ -45,4 +45,6 @@ As classes do projeto estão agrupadas semanticamente nos seguintes pacotes:
  
  * service : Pacote que contém as classes responsáveis por executar toda lógica de negócio da aplicação.  
  
+ ## Acesso ao Swagger
  
+ * **Swagger UI** : [https://desafio-b2w-api.herokuapp.com/swagger-ui.html#/](https://desafio-b2w-api.herokuapp.com/swagger-ui.html#/)
